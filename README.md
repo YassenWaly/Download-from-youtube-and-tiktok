@@ -8,6 +8,8 @@ os.system("pip install dragonxxdlib")
 
 # Example of a library :-
 
+from dragonxxdlib import *
+
 #To download from YouTube
 
 inp1=input(" Enter a url : ")
