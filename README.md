@@ -15,12 +15,14 @@ from dragonxxdlib import *
 inp1=input(" Enter a url : ")
 
 print(youtube(inp1))
+
 ---------------------------------
 #To download from tiktok
 
 inp2=input(" Enter a url : ")
 
 print(tiktok(inp2))
+
 -----------------------------------
 #To download from facebook
 
