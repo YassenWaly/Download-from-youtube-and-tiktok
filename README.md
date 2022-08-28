@@ -18,6 +18,12 @@ print(youtube(inp1))
 
 #To download from tiktok
 
-inp1=input(" Enter a url : ")
+inp2=input(" Enter a url : ")
 
 print(tiktok(inp1))
+
+#To donload from facebook
+
+inp3=input(" Enter a url : ")
+
+print(facebook(inp1))
