@@ -20,10 +20,10 @@ print(youtube(inp1))
 
 inp2=input(" Enter a url : ")
 
-print(tiktok(inp1))
+print(tiktok(inp2))
 
 #To download from facebook
 
 inp3=input(" Enter a url : ")
 
-print(facebook(inp1))
+print(facebook(inp3))
