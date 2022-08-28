@@ -22,7 +22,7 @@ inp2=input(" Enter a url : ")
 
 print(tiktok(inp1))
 
-#To donload from facebook
+#To download from facebook
 
 inp3=input(" Enter a url : ")
 
