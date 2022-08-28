@@ -1,10 +1,10 @@
-# Download-from-youtube-and-tiktok
+# Download-from-youtube-tiktok-facebook
 
 #to download the library :-
 
 import os
 
-os.system("pip install dragonxxdlib")
+os.system("pip install dragonxxdlib==0.0.2")
 
 # Example of a library :-
 
