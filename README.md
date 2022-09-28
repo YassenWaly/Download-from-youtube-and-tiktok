@@ -4,7 +4,7 @@
 
 import os
 
-os.system("pip install dragonxxdlib==0.0.2")
+os.system("pip install dragonxxdlib==0.5.2")
 
 # Example of a library :-
 
@@ -17,6 +17,9 @@ inp1=input(" Enter a url : ")
 print(youtube(inp1))
 
 ---------------------------------
+
+from dragonxxdlib import *
+
 #To download from tiktok
 
 inp2=input(" Enter a url : ")
@@ -24,6 +27,9 @@ inp2=input(" Enter a url : ")
 print(tiktok(inp2))
 
 -----------------------------------
+
+from dragonxxdlib import *
+
 #To download from facebook
 
 inp3=input(" Enter a url : ")
