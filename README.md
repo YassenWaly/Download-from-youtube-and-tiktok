@@ -4,7 +4,7 @@
 
 import os
 
-os.system("pip install dragonxxdlib==0.6.2")
+os.system("pip install dragonxxdlib==1.0.0")
 
 # Example of a library :-
 
